@@ -42,6 +42,11 @@ body {
 
 .profile .profile-image {
     width: 100%;
+<<<<<<< HEAD
+    border-radius: 50%;
+    border: 8px solid #1B2631;
+=======
+>>>>>>> 99441616e170bec20e37ce64e7e820a6263aa4c5
 }
 
 .name {
