@@ -27,7 +27,11 @@ body {
 .right-section {
     grid-column: span 5;
     height: 100%;
+<<<<<<< css-style
     background-color: #000000;
+=======
+    background-color: #4B6982;
+>>>>>>> main
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -37,7 +41,11 @@ body {
 
 .profile {
     width: 100%;
+<<<<<<< css-style
     border-bottom: 2px solid #000000;
+=======
+    border-bottom: 2px solid #1B2631;
+>>>>>>> main
 }
 
 .profile .profile-image {
