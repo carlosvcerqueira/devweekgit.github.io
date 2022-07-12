@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #70c6c7;
+    background-color: #db5111;
 }
 
 .resume-contents {
@@ -21,13 +21,17 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+    background-color: #797b7c;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
+<<<<<<< css-style
+    background-color: #000000;
+=======
     background-color: #4B6982;
+>>>>>>> main
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -37,17 +41,21 @@ body {
 
 .profile {
     width: 100%;
+<<<<<<< css-style
+    border-bottom: 2px solid #000000;
+=======
     border-bottom: 2px solid #1B2631;
+>>>>>>> main
 }
 
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #1B2631;
+    border: 8px solid #000000;
 }
 
 .name {
-    color: #D6DBDF;
+    color: #ffffff;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
